@@ -1,0 +1,8 @@
+org.openjfx.FXMLController -> a.a.a:
+    javafx.scene.control.Label label -> label
+    10:10:void <init>() -> <init>
+    17:20:void initialize(java.net.URL,java.util.ResourceBundle) -> initialize
+org.openjfx.MainApp -> a.a.b:
+    10:10:void <init>() -> <init>
+    14:22:void start(javafx.stage.Stage) -> start
+    25:26:void main(java.lang.String[]) -> a
